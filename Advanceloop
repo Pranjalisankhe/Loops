@@ -1,0 +1,9 @@
+class Advanceloop { 
+	public static void main(String args[]) { 
+		int my_array[]={20,30,40}; 
+		for(int i:my_array) { 
+		    System.out.print("Values for advance for loop");
+			System.out.print(i+"\n"); 
+		} 
+	} 
+}
